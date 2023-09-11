@@ -1,6 +1,6 @@
 # Translate Mate - Your Language Conversion Companion
 
-![Translate Mate Logo](app_logo.png)
+
 
 ## Introduction
 
