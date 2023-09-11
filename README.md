@@ -25,4 +25,4 @@ Translate Mate is a powerful Android app that allows you to effortlessly transla
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/translate-mate.git
+git clone https://github.com/yJoelhenry7/Translate-Mate
